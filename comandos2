@@ -1,10 +1,13 @@
 #!/bin/bash -e
 
 # Eliminar la carpeta "externos" dentro de la carpeta distribuidora
-cd distribuidora 
+cd externos 
 cd pendientes 
 rm lista.txt
 rm lista.txt
 cd..
-rmdir externos
+rmdir pendientes 
+cd ..
+cd distribuidora 
+rmdir externos 
 
