@@ -2,11 +2,4 @@
 
 # Eliminar la carpeta "externos" dentro de la carpeta distribuidora
 cd distribuidora 
-cd externos 
-cd pendientes
-rm lista.txt
-rm lista.txt
-cd ..
-rmdir pendientes
-cd distribuidora 
-rmdir externos
+rm -rf pendientes 
