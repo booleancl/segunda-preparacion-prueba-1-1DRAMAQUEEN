@@ -8,8 +8,10 @@ cd pendientes
 rm lista.txt
 cd ..
 cd ..
+cd externos
+rmdir pendientes
+cd ..
 cd distribuidora 
-rmdir pendientes 
 rmdir externos 
 
 
