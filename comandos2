@@ -9,10 +9,7 @@ rm lista.txt
 cd ..
 cd ..
 cd distribuidora 
-cd externos
 rmdir pendientes 
-cd ..
-cd distribuidora 
 rmdir externos 
 
 
