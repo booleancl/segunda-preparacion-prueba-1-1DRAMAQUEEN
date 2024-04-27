@@ -4,6 +4,7 @@
 cd distribuidora
 mkdir clientes 
 cd clientes
+cd ..
 mkdir quinta-region
 cd quinta-region
 touch lista.xls
@@ -29,3 +30,4 @@ cd ..
 cd..
 mkdir sexta-region
 cd sexta-region
+touch lista.xls
