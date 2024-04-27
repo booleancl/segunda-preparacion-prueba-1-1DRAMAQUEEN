@@ -1,30 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ación.
 Si te fijas en este proyecto hay una carpeta con el nombre `distribuidora`.
 
